@@ -15,7 +15,11 @@ This Node.js command line application processes retailer data from a customer's 
    git clone https://github.com/bablu94/iwarranty-app.git
 
 steps:
+
 cd iwarranty-app
+
 npm install
+
 cd path/to/iwarranty-app
+
 npm start
