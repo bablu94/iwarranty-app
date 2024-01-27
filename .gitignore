@@ -1,0 +1,13 @@
+# Node.js
+node_modules/
+
+# Build artifacts
+dist/
+
+# IDE/Editor specific files
+.vscode/
+.idea/
+
+# TypeScript
+*.tsbuildinfo
+
